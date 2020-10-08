@@ -1,7 +1,6 @@
 const n = 2;
 const m = 2;
 let ind = [[1, 1], [0, 0]];
-// let ind = [[0,1]]
 
 function oddCells(row, col, ind) {
     let mat = [];
